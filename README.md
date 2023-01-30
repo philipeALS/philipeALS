@@ -9,6 +9,6 @@
 - 👋 Hello, my name is Philipe Ádamo and I am a software programming student, graduated in hospital management, exterminator and musician for love.
 - 🔭 I'm currently working with Dedetization But I intend to start programming software.
 - 🌱 I am currently learning Python, Java and SQL programming languages.
-- 👯 I'm looking to collaborate on ... programming by experience and network.
+- 👯 I'm looking to collaborate on programming by experience and network.
 - 📫 Meet me at: Email: philipe.adamo.guitarrista@gmail.com and on instagram @philipeadamoguitar
 - ⚡Musician and guitarist!
