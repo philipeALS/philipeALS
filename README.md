@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com Dedetização, mas pretendo começar a programar softwares.
 - 🌱 Atualmente, estou aprendendo as linguagens de programação Python, Java e SQL.
 - 👯 Procuro colaborar em programação por experiência e trabalho na internet.
-- 📫 Me encontrte em: philipe.adamo.guitarrista@gmail.com e no instagram @philipeadamoguitar
+- 📫 Me encontre em: philipe.adamo.guitarrista@gmail.com e no instagram @philipeadamoguitar
 - ⚡Músico e guitarrista!
 
 - 👋 Hello, my name is Philipe Ádamo, I am a software programming student, graduated in hospital management, exterminator and musician for love.
